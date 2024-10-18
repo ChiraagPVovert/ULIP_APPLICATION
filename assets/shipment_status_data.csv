@@ -1,0 +1,201 @@
+Shipment ID,Status,Date
+1,In Transit,10/1/2024
+2,Delivered,10/2/2024
+3,Delayed,10/3/2024
+4,In Transit,10/4/2024
+5,Delivered,10/5/2024
+6,Delayed,10/6/2024
+7,In Transit,10/7/2024
+8,Delivered,10/8/2024
+9,Delayed,10/9/2024
+10,In Transit,10/10/2024
+11,Delivered,10/11/2024
+12,Delayed,10/12/2024
+13,In Transit,10/13/2024
+14,Delivered,10/14/2024
+15,Delayed,10/15/2024
+16,In Transit,10/16/2024
+17,Delivered,10/17/2024
+18,Delayed,10/18/2024
+19,In Transit,10/19/2024
+20,Delivered,10/20/2024
+21,Delayed,10/21/2024
+22,In Transit,10/22/2024
+23,Delivered,10/23/2024
+24,Delayed,10/24/2024
+25,In Transit,10/25/2024
+26,Delivered,10/26/2024
+27,Delayed,10/27/2024
+28,In Transit,10/28/2024
+29,Delivered,10/29/2024
+30,Delayed,10/30/2024
+31,In Transit,10/31/2024
+32,Delivered,11/1/2024
+33,Delayed,11/2/2024
+34,In Transit,11/3/2024
+35,Delivered,11/4/2024
+36,Delayed,11/5/2024
+37,In Transit,11/6/2024
+38,Delivered,11/7/2024
+39,Delayed,11/8/2024
+40,In Transit,11/9/2024
+41,Delivered,11/10/2024
+42,Delayed,11/11/2024
+43,In Transit,11/12/2024
+44,Delivered,11/13/2024
+45,Delayed,11/14/2024
+46,In Transit,11/15/2024
+47,Delivered,11/16/2024
+48,Delayed,11/17/2024
+49,In Transit,11/18/2024
+50,Delivered,11/19/2024
+51,Delayed,11/20/2024
+52,In Transit,11/21/2024
+53,Delivered,11/22/2024
+54,Delayed,11/23/2024
+55,In Transit,11/24/2024
+56,Delivered,11/25/2024
+57,Delayed,11/26/2024
+58,In Transit,11/27/2024
+59,Delivered,11/28/2024
+60,Delayed,11/29/2024
+61,In Transit,11/30/2024
+62,Delivered,12/1/2024
+63,Delayed,12/2/2024
+64,In Transit,12/3/2024
+65,Delivered,12/4/2024
+66,Delayed,12/5/2024
+67,In Transit,12/6/2024
+68,Delivered,12/7/2024
+69,Delayed,12/8/2024
+70,In Transit,12/9/2024
+71,Delivered,12/10/2024
+72,Delayed,12/11/2024
+73,In Transit,12/12/2024
+74,Delivered,12/13/2024
+75,Delayed,12/14/2024
+76,In Transit,12/15/2024
+77,Delivered,12/16/2024
+78,Delayed,12/17/2024
+79,In Transit,12/18/2024
+80,Delivered,12/19/2024
+81,Delayed,12/20/2024
+82,In Transit,12/21/2024
+83,Delivered,12/22/2024
+84,Delayed,12/23/2024
+85,In Transit,12/24/2024
+86,Delivered,12/25/2024
+87,Delayed,12/26/2024
+88,In Transit,12/27/2024
+89,Delivered,12/28/2024
+90,Delayed,12/29/2024
+91,In Transit,12/30/2024
+92,Delivered,12/31/2024
+93,Delayed,1/1/2025
+94,In Transit,1/2/2025
+95,Delivered,1/3/2025
+96,Delayed,1/4/2025
+97,In Transit,1/5/2025
+98,Delivered,1/6/2025
+99,Delayed,1/7/2025
+100,In Transit,1/8/2025
+101,Delivered,1/9/2025
+102,Delayed,1/10/2025
+103,In Transit,1/11/2025
+104,Delivered,1/12/2025
+105,Delayed,1/13/2025
+106,In Transit,1/14/2025
+107,Delivered,1/15/2025
+108,Delayed,1/16/2025
+109,In Transit,1/17/2025
+110,Delivered,1/18/2025
+111,Delayed,1/19/2025
+112,In Transit,1/20/2025
+113,Delivered,1/21/2025
+114,Delayed,1/22/2025
+115,In Transit,1/23/2025
+116,Delivered,1/24/2025
+117,Delayed,1/25/2025
+118,In Transit,1/26/2025
+119,Delivered,1/27/2025
+120,Delayed,1/28/2025
+121,In Transit,1/29/2025
+122,Delivered,1/30/2025
+123,Delayed,1/31/2025
+124,In Transit,2/1/2025
+125,Delivered,2/2/2025
+126,Delayed,2/3/2025
+127,In Transit,2/4/2025
+128,Delivered,2/5/2025
+129,Delayed,2/6/2025
+130,In Transit,2/7/2025
+131,Delivered,2/8/2025
+132,Delayed,2/9/2025
+133,In Transit,2/10/2025
+134,Delivered,2/11/2025
+135,Delayed,2/12/2025
+136,In Transit,2/13/2025
+137,Delivered,2/14/2025
+138,Delayed,2/15/2025
+139,In Transit,2/16/2025
+140,Delivered,2/17/2025
+141,Delayed,2/18/2025
+142,In Transit,2/19/2025
+143,Delivered,2/20/2025
+144,Delayed,2/21/2025
+145,In Transit,2/22/2025
+146,Delivered,2/23/2025
+147,Delayed,2/24/2025
+148,In Transit,2/25/2025
+149,Delivered,2/26/2025
+150,Delayed,2/27/2025
+151,In Transit,2/28/2025
+152,Delivered,3/1/2025
+153,Delayed,3/2/2025
+154,In Transit,3/3/2025
+155,Delivered,3/4/2025
+156,Delayed,3/5/2025
+157,In Transit,3/6/2025
+158,Delivered,3/7/2025
+159,Delayed,3/8/2025
+160,In Transit,3/9/2025
+161,Delivered,3/10/2025
+162,Delayed,3/11/2025
+163,In Transit,3/12/2025
+164,Delivered,3/13/2025
+165,Delayed,3/14/2025
+166,In Transit,3/15/2025
+167,Delivered,3/16/2025
+168,Delayed,3/17/2025
+169,In Transit,3/18/2025
+170,Delivered,3/19/2025
+171,Delayed,3/20/2025
+172,In Transit,3/21/2025
+173,Delivered,3/22/2025
+174,Delayed,3/23/2025
+175,In Transit,3/24/2025
+176,Delivered,3/25/2025
+177,Delayed,3/26/2025
+178,In Transit,3/27/2025
+179,Delivered,3/28/2025
+180,Delayed,3/29/2025
+181,In Transit,3/30/2025
+182,Delivered,3/31/2025
+183,Delayed,4/1/2025
+184,In Transit,4/2/2025
+185,Delivered,4/3/2025
+186,Delayed,4/4/2025
+187,In Transit,4/5/2025
+188,Delivered,4/6/2025
+189,Delayed,4/7/2025
+190,In Transit,4/8/2025
+191,Delivered,4/9/2025
+192,Delayed,4/10/2025
+193,In Transit,4/11/2025
+194,Delivered,4/12/2025
+195,Delayed,4/13/2025
+196,In Transit,4/14/2025
+197,Delivered,4/15/2025
+198,Delayed,4/16/2025
+199,In Transit,4/17/2025
+200,Delivered,4/18/2025
