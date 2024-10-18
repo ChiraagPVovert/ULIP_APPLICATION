@@ -82,18 +82,19 @@ class _DashboardState extends State<Dashboard> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        toolbarHeight: 80,
-        title:const Center(
-          child: Text(
-            'ULIP',
-            style: TextStyle(
-              color: Colors.white,
-            ),
+      toolbarHeight: 80,
+      title: Padding(
+        padding: const EdgeInsets.only(left: 110), // Adjust this value for more left/right
+        child: Text(
+          'ULIP',
+          style: TextStyle(
+            color: Colors.white,
           ),
         ),
-        backgroundColor: Colors.blue,
-        iconTheme:const IconThemeData(color: Colors.white),
       ),
+      backgroundColor: Colors.blue,
+      iconTheme: IconThemeData(color: Colors.white),
+    ),
       drawer: Drawer(
         child: ListView(
           padding: EdgeInsets.zero,
@@ -176,7 +177,7 @@ class _DashboardState extends State<Dashboard> {
             ),
             ListTile(
               leading: const Icon(Icons.gps_fixed),
-              title: const Text('Traking'),
+              title: const Text('Tracking'),
               onTap: () {
                 Navigator.pushReplacement(
                   context,

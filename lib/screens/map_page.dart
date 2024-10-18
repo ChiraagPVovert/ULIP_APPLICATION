@@ -165,18 +165,19 @@ class _MapPageState extends State<MapPage> {
   Widget build(BuildContext context) {
     return Scaffold(
         appBar: AppBar(
-          toolbarHeight: 80,
-          title: Center(
-          child: Text('ULIP',
+      toolbarHeight: 80,
+      title: Padding(
+        padding: const EdgeInsets.only(left: 110), // Adjust this value for more left/right
+        child: Text(
+          'ULIP',
           style: TextStyle(
             color: Colors.white,
           ),
-          ),
         ),
-        backgroundColor: Colors.blue,
-        iconTheme: IconThemeData(color: Colors.white),
-
       ),
+      backgroundColor: Colors.blue,
+      iconTheme: IconThemeData(color: Colors.white),
+    ),
       drawer: Drawer(
         child: ListView(
           padding: EdgeInsets.zero,
@@ -259,7 +260,7 @@ class _MapPageState extends State<MapPage> {
             ),
             ListTile(
               leading: const Icon(Icons.gps_fixed),
-              title: const Text('Traking'),
+              title: const Text('Tracking'),
               onTap: () {
                 Navigator.pushReplacement(
                   context,
