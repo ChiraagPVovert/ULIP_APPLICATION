@@ -166,8 +166,8 @@ class _MapPageState extends State<MapPage> {
     return Scaffold(
         appBar: AppBar(
       toolbarHeight: 80,
-      title: Padding(
-        padding: const EdgeInsets.only(left: 110), // Adjust this value for more left/right
+      title:const Padding(
+        padding:  EdgeInsets.only(left: 110), // Adjust this value for more left/right
         child: Text(
           'ULIP',
           style: TextStyle(
